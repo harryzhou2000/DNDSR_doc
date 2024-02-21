@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['barrier_1947',['Barrier',['../namespaceDNDS_1_1MPI.html#a90f715c22be29570b7a1241c2cb42948',1,'DNDS::MPI']]],
+  ['basictype_5fto_5fmpiinttype_1948',['BasicType_To_MPIIntType',['../namespaceDNDS.html#a9c409ee15f20a2b8b07a217a01dcbe39',1,'DNDS']]],
+  ['batchsize_1949',['BatchSize',['../classDNDS_1_1ArrayEigenUniMatrixBatch.html#a0bdb91ee701f990c80b81d80c0746b00',1,'DNDS::ArrayEigenUniMatrixBatch']]],
+  ['bcast_1950',['Bcast',['../namespaceDNDS_1_1MPI.html#a01091faed50d162bde10025068b2cc7a',1,'DNDS::MPI']]],
+  ['begin_1951',['begin',['../classDNDS_1_1AdjacencyRow.html#a33deac5007746d7ecb96bbe83ec65845',1,'DNDS::AdjacencyRow::begin()'],['../structEigen_1_1MatrixFMTSafe.html#aa62a949728baf2a036b0eb8dc4a94348',1,'Eigen::MatrixFMTSafe::begin()'],['../classDNDS_1_1Geom_1_1NodePeriodicBitsRow.html#a5083579fbcfff9c6d4d2a7673851b820',1,'DNDS::Geom::NodePeriodicBitsRow::begin()']]],
+  ['bisectsolvelower_1952',['BisectSolveLower',['../namespaceDNDS_1_1Scalar.html#ae359bf53375f1f6eacff58c12c61af43',1,'DNDS::Scalar']]],
+  ['bitandreduce_1953',['bitandReduce',['../classDNDS_1_1Geom_1_1NodePeriodicBitsRow.html#a2e2be254a5467c84417291650d4642bf',1,'DNDS::Geom::NodePeriodicBitsRow']]],
+  ['borrowggindexing_1954',['BorrowGGIndexing',['../classDNDS_1_1ArrayTransformer.html#ad1ff489c5465684cd1d6c80800433ce0',1,'DNDS::ArrayTransformer']]],
+  ['boundarydefinition_1955',['BoundaryDefinition',['../structDNDS_1_1Euler_1_1EulerSolver_1_1Configuration_1_1BoundaryDefinition.html#a11f446258ecd76ec51819585d7017772',1,'DNDS::Euler::EulerSolver::Configuration::BoundaryDefinition']]],
+  ['boundaryhandler_1956',['BoundaryHandler',['../classDNDS_1_1Euler_1_1BoundaryHandler.html#a8ede45531609e19f00a0b5c0393ea433',1,'DNDS::Euler::BoundaryHandler']]],
+  ['buildcell2cell_1957',['BuildCell2Cell',['../structDNDS_1_1Geom_1_1UnstructuredMeshSerialRW.html#aa35fe1ca7cdddc924f3f7276d0ecfff8',1,'DNDS::Geom::UnstructuredMeshSerialRW']]],
+  ['buildghostprimary_1958',['BuildGhostPrimary',['../structDNDS_1_1Geom_1_1UnstructuredMesh.html#a33e55711e8f41b7df105e6a79d616a0a',1,'DNDS::Geom::UnstructuredMesh']]],
+  ['buildnode2node_1959',['BuildNode2Node',['../structDNDS_1_1Geom_1_1UnstructuredMeshSerialRW.html#aae38df69689542fe60357344c5772bdd',1,'DNDS::Geom::UnstructuredMeshSerialRW']]],
+  ['buildo2fromo1elevation_1960',['BuildO2FromO1Elevation',['../structDNDS_1_1Geom_1_1UnstructuredMesh.html#ab479bfc641b281fa6bdff743c4b61cd4',1,'DNDS::Geom::UnstructuredMesh']]],
+  ['buildscalar_1961',['BuildScalar',['../classDNDS_1_1CFV_1_1VariationalReconstruction.html#aa5e13c8b5b926fd6926b7a1a689f5af9',1,'DNDS::CFV::VariationalReconstruction']]],
+  ['buildserialout_1962',['BuildSerialOut',['../structDNDS_1_1Geom_1_1UnstructuredMeshSerialRW.html#a3241f4445beda857ec70707fc564a9aa',1,'DNDS::Geom::UnstructuredMeshSerialRW']]],
+  ['buildudof_1963',['BuildUDof',['../classDNDS_1_1CFV_1_1VariationalReconstruction.html#a29265767e8404f523705de1047a784e4',1,'DNDS::CFV::VariationalReconstruction']]],
+  ['buildurec_1964',['BuildURec',['../classDNDS_1_1CFV_1_1VariationalReconstruction.html#a8a9f034e0319cb6dc6c2437c7d498bd8',1,'DNDS::CFV::VariationalReconstruction']]]
+];

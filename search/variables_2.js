@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['b_2536',['b',['../structDNDS_1_1Euler_1_1EulerEvaluatorSettings_1_1PlaneInitializer.html#aaf279deecd1d05698862e0f0d0dade39',1,'DNDS::Euler::EulerEvaluatorSettings::PlaneInitializer']]],
+  ['basesettings_2537',['baseSettings',['../structDNDS_1_1CFV_1_1VRSettings.html#a1c8fee2868bc42947d6e33bb8a61d28b',1,'DNDS::CFV::VRSettings']]],
+  ['bcsettings_2538',['bcSettings',['../structDNDS_1_1Euler_1_1EulerSolver_1_1Configuration.html#acabbc87e8e5ebc2b584fda952ff17de2',1,'DNDS::Euler::EulerSolver::Configuration']]],
+  ['blink_2539',['Blink',['../namespaceDNDS_1_1TermColor.html#a1bfc6e6d391e6c177d58dcd46ff66c60',1,'DNDS::TermColor']]],
+  ['blue_2540',['Blue',['../namespaceDNDS_1_1TermColor.html#a0165fa1aef21033f3898ed20d07b87a0',1,'DNDS::TermColor']]],
+  ['bnd2cell_2541',['bnd2cell',['../structDNDS_1_1Geom_1_1UnstructuredMesh.html#aeec7933eb243d9a355905f69d1c1e44b',1,'DNDS::Geom::UnstructuredMesh']]],
+  ['bnd2cellserial_2542',['bnd2cellSerial',['../structDNDS_1_1Geom_1_1UnstructuredMeshSerialRW.html#a81f7dd3998acc7db3be5d46582fc6cf6',1,'DNDS::Geom::UnstructuredMeshSerialRW']]],
+  ['bnd2face_2543',['bnd2face',['../structDNDS_1_1Geom_1_1UnstructuredMesh.html#a295b794cd7c79d434085d6f0d86eb58d',1,'DNDS::Geom::UnstructuredMesh']]],
+  ['bnd2node_2544',['bnd2node',['../structDNDS_1_1Geom_1_1UnstructuredMesh.html#a6e7ab176bdd7a8a0e844979e3c054eec',1,'DNDS::Geom::UnstructuredMesh']]],
+  ['bnd2nodeserial_2545',['bnd2nodeSerial',['../structDNDS_1_1Geom_1_1UnstructuredMeshSerialRW.html#ae8ec90d24654b0a774e2eb49210e3701',1,'DNDS::Geom::UnstructuredMeshSerialRW']]],
+  ['bnd2nodeserialouttrans_2546',['bnd2nodeSerialOutTrans',['../structDNDS_1_1Geom_1_1UnstructuredMeshSerialRW.html#a640ed64310ca866610bb70eb44bf0321',1,'DNDS::Geom::UnstructuredMeshSerialRW']]],
+  ['bndeleminfo_2547',['bndElemInfo',['../structDNDS_1_1Geom_1_1UnstructuredMesh.html#ae25cdc2ba089721c4d855d6d0230ed51',1,'DNDS::Geom::UnstructuredMesh']]],
+  ['bndeleminfoserial_2548',['bndElemInfoSerial',['../structDNDS_1_1Geom_1_1UnstructuredMeshSerialRW.html#a5190ac4f73f3b981291b258ecb45df9c',1,'DNDS::Geom::UnstructuredMeshSerialRW']]],
+  ['bndeleminfoserialouttrans_2549',['bndElemInfoSerialOutTrans',['../structDNDS_1_1Geom_1_1UnstructuredMeshSerialRW.html#a675a4679413116458adf170158238ff2',1,'DNDS::Geom::UnstructuredMeshSerialRW']]],
+  ['bndpartition_2550',['bndPartition',['../structDNDS_1_1Geom_1_1UnstructuredMeshSerialRW.html#abc7cf0e16755a3931d7651666010e6cb',1,'DNDS::Geom::UnstructuredMeshSerialRW']]],
+  ['bold_2551',['Bold',['../namespaceDNDS_1_1TermColor.html#acabeb611bc370009f8adf94390ba00f5',1,'DNDS::TermColor']]],
+  ['boundarydefinition_2552',['boundaryDefinition',['../structDNDS_1_1Euler_1_1EulerSolver_1_1Configuration.html#aa650d68392c6430f1f1edf13e6da12c1',1,'DNDS::Euler::EulerSolver::Configuration']]],
+  ['boxinitializers_2553',['boxInitializers',['../structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a6c6226c2311927957b5a61ab609a7271',1,'DNDS::Euler::EulerEvaluatorSettings']]]
+];

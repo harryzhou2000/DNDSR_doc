@@ -1,0 +1,5 @@
+<map id="DNDS::CFV::VRSettings" name="DNDS::CFV::VRSettings">
+<area shape="rect" id="node1" title="A means to translate nlohmann json into c++ primitive data types and back; and stores then during com..." alt="" coords="103,109,273,136"/>
+<area shape="rect" id="node2" href="$structDNDS_1_1CFV_1_1VRSettings_1_1FunctionalSettings.html" title=" " alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node3" href="$structDNDS_1_1CFV_1_1VRSettings_1_1BaseSettings.html" title=" " alt="" coords="200,5,371,47"/>
+</map>

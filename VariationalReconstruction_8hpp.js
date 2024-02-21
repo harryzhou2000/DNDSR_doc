@@ -1,0 +1,26 @@
+var VariationalReconstruction_8hpp =
+[
+    [ "RecAtr", "structDNDS_1_1CFV_1_1RecAtr.html", "structDNDS_1_1CFV_1_1RecAtr" ],
+    [ "VariationalReconstruction", "classDNDS_1_1CFV_1_1VariationalReconstruction.html", "classDNDS_1_1CFV_1_1VariationalReconstruction" ],
+    [ "__POWV", "VariationalReconstruction_8hpp.html#a5c4656e2c5d66d75e63b772216c58f6a", null ],
+    [ "t3Mat", "VariationalReconstruction_8hpp.html#a9c6bfdfe161684fbd8e2fe202bdc72bc", null ],
+    [ "t3MatPair", "VariationalReconstruction_8hpp.html#ab366e937104b0cea3bce1a99a3dee8b4", null ],
+    [ "t3Vec", "VariationalReconstruction_8hpp.html#aef49cfdbe295981681d2dc97a370a94f", null ],
+    [ "t3VecPair", "VariationalReconstruction_8hpp.html#a1aafd1e3a2384474944833f3cf776cbc", null ],
+    [ "t3Vecs", "VariationalReconstruction_8hpp.html#a0e056ff9889b59716bf9d559f90b862f", null ],
+    [ "t3VecsPair", "VariationalReconstruction_8hpp.html#a69bae93cbda618a49a600b342cc7d75b", null ],
+    [ "tCoeff", "VariationalReconstruction_8hpp.html#ac19ebc081ea3e3ccd6613ab4f4e28ca0", null ],
+    [ "tCoeffPair", "VariationalReconstruction_8hpp.html#a14d03d44419d3cf1efcaaa2037521515", null ],
+    [ "tMats", "VariationalReconstruction_8hpp.html#a716dd26dbd48c552fd6c16bcafb7e5b7", null ],
+    [ "tMatsPair", "VariationalReconstruction_8hpp.html#a31b05b0c014e26163b5acebe68028719", null ],
+    [ "tScalar", "VariationalReconstruction_8hpp.html#a9baf04b94583d8be7b04c49d58c9a242", null ],
+    [ "tScalarPair", "VariationalReconstruction_8hpp.html#a3c6a69e05c79406be941ceb0d4195a74", null ],
+    [ "tUDof", "VariationalReconstruction_8hpp.html#a48a5cd245067891b5175d3e96708ae89", null ],
+    [ "tURec", "VariationalReconstruction_8hpp.html#aeb0fbe0b14767d01e07d81ad8fbacb95", null ],
+    [ "tVecs", "VariationalReconstruction_8hpp.html#a5a8a12dc4409186b2a0d96f83a7a413b", null ],
+    [ "tVecsPair", "VariationalReconstruction_8hpp.html#a6008d869f648abb771af1673ec66edca", null ],
+    [ "tVMat", "VariationalReconstruction_8hpp.html#a9e4834ee8259b6d52abf8a8d8d3c03ca", null ],
+    [ "tVMatPair", "VariationalReconstruction_8hpp.html#a714852866c5086a3311ca88576157a2d", null ],
+    [ "tVVec", "VariationalReconstruction_8hpp.html#a70fb8d9591c28049f3b32c62d59be554", null ],
+    [ "tVVecPair", "VariationalReconstruction_8hpp.html#a722b0c683a8815e30dff8610cce2f745", null ]
+];

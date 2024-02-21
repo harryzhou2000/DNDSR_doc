@@ -1,0 +1,25 @@
+var structDNDS_1_1Euler_1_1EulerEvaluatorSettings =
+[
+    [ "BoxInitializer", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings_1_1BoxInitializer.html", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings_1_1BoxInitializer" ],
+    [ "IdealGasProperty", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings_1_1IdealGasProperty.html", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings_1_1IdealGasProperty" ],
+    [ "PlaneInitializer", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings_1_1PlaneInitializer.html", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings_1_1PlaneInitializer" ],
+    [ "ReadWriteJSON", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a370bb9d2ae9ca70b8484b274e1efbaca", null ],
+    [ "boxInitializers", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a6c6226c2311927957b5a61ab609a7271", null ],
+    [ "constMassForce", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#aaf78cdfd7a3d945f11e7f7b6d3809f85", null ],
+    [ "farFieldStaticValue", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#ae277c40bf535cd9e59ebacc7c6ddb6ab", null ],
+    [ "idealGasProperty", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#af847d5fa640b084105de7b2e3c5ac4bf", null ],
+    [ "ignoreSourceTerm", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a0f1862d7835cb017e412d4fd67c0cfb8", null ],
+    [ "jsonSettings", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a5972a7ca9d278d3fcf48c4363662fb1c", null ],
+    [ "nCentralSmoothStep", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a8f41e3cfdf1c77e62c9f67a112e43f3c", null ],
+    [ "planeInitializers", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#ab18280a0575241ea2f0d434d190f85bb", null ],
+    [ "refU", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a672d82f4fc45f5c1a589e11056def669", null ],
+    [ "refUPrim", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a6176340b5ceb7e19b8c901e0f8a8aa52", null ],
+    [ "rsMeanValueEig", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a302924eb3b880897bc86f0bd077d39cb", null ],
+    [ "rsRotateScheme", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a2badca1502470d8688dda325192a8ba2", null ],
+    [ "rsType", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a6e0af7093e99b5983b96c17c2e7216f9", null ],
+    [ "rsTypeAux", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a37549cfce77f7f12e9134d944bfb36e6", null ],
+    [ "specialBuiltinInitializer", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#ab549bdb5dd75a61eb7ae0cf2940f06cb", null ],
+    [ "uRecAlphaCompressPower", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a1b4f452c346ec78b8b5dbbe4edf088fb", null ],
+    [ "uRecBetaCompressPower", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#a8caba0345dfd073760809cd819a97288", null ],
+    [ "useScalarJacobian", "structDNDS_1_1Euler_1_1EulerEvaluatorSettings.html#aea9d0d35d24c6da0720a54d315337395", null ]
+];

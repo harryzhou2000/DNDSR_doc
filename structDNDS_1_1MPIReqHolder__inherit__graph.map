@@ -1,0 +1,4 @@
+<map id="DNDS::MPIReqHolder" name="DNDS::MPIReqHolder">
+<area shape="rect" id="node1" title="wrapper of tMPI_reqVec, so that the requests are freed automatically" alt="" coords="5,80,160,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="34,5,131,32"/>
+</map>

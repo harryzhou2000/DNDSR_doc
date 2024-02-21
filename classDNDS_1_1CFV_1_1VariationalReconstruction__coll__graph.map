@@ -1,0 +1,8 @@
+<map id="DNDS::CFV::VariationalReconstruction&lt; dim &gt;" name="DNDS::CFV::VariationalReconstruction&lt; dim &gt;">
+<area shape="rect" id="node1" title="The VR class that provides any information needed in high&#45;order CFV." alt="" coords="624,64,875,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="333,5,525,47"/>
+<area shape="rect" id="node3" href="$structDNDS_1_1CFV_1_1VRSettings.html" title="A means to translate nlohmann json into c++ primitive data types and back; and stores then during com..." alt="" coords="344,71,515,98"/>
+<area shape="rect" id="node4" href="$structDNDS_1_1CFV_1_1VRSettings_1_1FunctionalSettings.html" title=" " alt="" coords="5,32,176,73"/>
+<area shape="rect" id="node5" href="$structDNDS_1_1CFV_1_1VRSettings_1_1BaseSettings.html" title=" " alt="" coords="5,97,176,139"/>
+<area shape="rect" id="node6" href="$structDNDS_1_1MPIInfo.html" title=" " alt="" coords="372,122,487,149"/>
+</map>

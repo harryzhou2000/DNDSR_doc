@@ -1,0 +1,26 @@
+var structDNDS_1_1CFV_1_1VRSettings =
+[
+    [ "BaseSettings", "structDNDS_1_1CFV_1_1VRSettings_1_1BaseSettings.html", "structDNDS_1_1CFV_1_1VRSettings_1_1BaseSettings" ],
+    [ "FunctionalSettings", "structDNDS_1_1CFV_1_1VRSettings_1_1FunctionalSettings.html", "structDNDS_1_1CFV_1_1VRSettings_1_1FunctionalSettings" ],
+    [ "json", "structDNDS_1_1CFV_1_1VRSettings.html#a7a4f136b5acd58c0a6f68b668f6fd1c3", null ],
+    [ "VRSettings", "structDNDS_1_1CFV_1_1VRSettings.html#a3b74164ea327cc33c9ec3ba0b56981f0", null ],
+    [ "VRSettings", "structDNDS_1_1CFV_1_1VRSettings.html#a087157c3de681850a563a1bbdcf2f507", null ],
+    [ "ParseFromJson", "structDNDS_1_1CFV_1_1VRSettings.html#aa85346438f3ea31a4fab42aa21224f3a", null ],
+    [ "WriteIntoJson", "structDNDS_1_1CFV_1_1VRSettings.html#a8f87f7331207bcc3cc78f2615a581fd1", null ],
+    [ "from_json", "structDNDS_1_1CFV_1_1VRSettings.html#a3566de111c3c14f8eef3d370e5f4cfd8", null ],
+    [ "to_json", "structDNDS_1_1CFV_1_1VRSettings.html#ac4998a297c3cdc1525337da0f8251554", null ],
+    [ "baseSettings", "structDNDS_1_1CFV_1_1VRSettings.html#a1c8fee2868bc42947d6e33bb8a61d28b", null ],
+    [ "cacheDiffBase", "structDNDS_1_1CFV_1_1VRSettings.html#a7e789bd3f4dacd3d339c38148a59cd21", null ],
+    [ "cacheDiffBaseSize", "structDNDS_1_1CFV_1_1VRSettings.html#aba28df836ad431295080dedb4bb1bf4c", null ],
+    [ "functionalSettings", "structDNDS_1_1CFV_1_1VRSettings.html#a279c31824560f95c10676efd2ebf68a0", null ],
+    [ "ignoreMeshGeometryDeficiency", "structDNDS_1_1CFV_1_1VRSettings.html#a7a76975bba2e87bff14f583c67340c91", null ],
+    [ "intOrder", "structDNDS_1_1CFV_1_1VRSettings.html#a21587be54fb26f4bfcbfe2ecfab8525d", null ],
+    [ "jacobiRelax", "structDNDS_1_1CFV_1_1VRSettings.html#abbe7634251b3e2ac4ba9dd67a980aaa2", null ],
+    [ "limiterBiwayAlter", "structDNDS_1_1CFV_1_1VRSettings.html#a13e7126c253f289922c0d173760c064d", null ],
+    [ "maxOrder", "structDNDS_1_1CFV_1_1VRSettings.html#a75f204749a1c9e67df5e478391815aa1", null ],
+    [ "normWBAP", "structDNDS_1_1CFV_1_1VRSettings.html#a365f0dbad82c3644df8e1cd007bfefe7", null ],
+    [ "smoothThreshold", "structDNDS_1_1CFV_1_1VRSettings.html#a53b25369d319823c4bb6c245b333dbc1", null ],
+    [ "SORInstead", "structDNDS_1_1CFV_1_1VRSettings.html#a182cae5f4c8cb40a654d72b77a4f3e3a", null ],
+    [ "subs2ndOrder", "structDNDS_1_1CFV_1_1VRSettings.html#af47ba8ae8dd6c225ee012a8e05f651e0", null ],
+    [ "WBAP_nStd", "structDNDS_1_1CFV_1_1VRSettings.html#a04111b3d7ff8a2fecc647cf0e8c72c89", null ]
+];
